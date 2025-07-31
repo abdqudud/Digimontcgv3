@@ -27,7 +27,7 @@ h1 {
   border-color: lime;
 }
 .card.missing {
-  background: url('images/bg-missing.jpg') no-repeat center;
+  background: url('bg-missing.png') no-repeat center;
   background-size: cover;
   opacity: 0.3;
 }
