@@ -1,0 +1,14 @@
+
+{
+  "name": "Digimon TCG Binder",
+  "short_name": "DigimonBinder",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#ffffff",
+  "icons": [{
+    "src": "icons/icon-192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }]
+}
